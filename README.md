@@ -7,4 +7,4 @@ edit -> preferences ->qemu vm
 edit -> preferences ->iou devices
 
 ### For the  openvswitch
-edit -> preferences ->docker
+file -> import appliance 

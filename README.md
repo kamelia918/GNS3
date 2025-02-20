@@ -5,6 +5,11 @@ edit -> preferences ->qemu vm
 
 ### For the vIOS switch
 edit -> preferences ->iou devices
+need a certificat for this on 
+we'll use the following private key : 
+[license]
+localhost.localdomain = 73635fd3b0a13ad0;
+
 
 ### For the  openvswitch
 file -> import appliance 

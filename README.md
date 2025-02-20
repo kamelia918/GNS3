@@ -5,6 +5,7 @@ edit -> preferences ->qemu vm
 
 ### For the vIOS switch
 edit -> preferences ->iou devices
+
 need a certificat for this on 
 we'll use the following private key : 
 [license]

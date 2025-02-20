@@ -6,7 +6,7 @@ edit -> preferences ->qemu vm
 ### For the vIOS switch
 edit -> preferences ->iou devices
 
-### need a certificat for this on 
+### need a certificat for the vIOS switch 
 we'll use the following private key : 
 [license]
 localhost.localdomain = 73635fd3b0a13ad0;
